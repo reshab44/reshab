@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class multipleTable {
     /**
-    *This programm is created by Reshab..
+    *This programm is created by Reshab.. 21/11/2020
     */
 
     public static void main(String [] args) {
