@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class multipleTable {
+    /**
+    *This programm is created by Reshab..
+    */
 
     public static void main(String [] args) {
         int number;
